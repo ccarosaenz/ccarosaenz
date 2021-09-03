@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ccarosaenz
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python and others data science tools.
+- 📫 How to reach me? carloscarosaenz@gmail.com
